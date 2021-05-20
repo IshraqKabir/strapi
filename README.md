@@ -4,7 +4,9 @@ A quick description of your strapi application
 
 npm install
 
-npm run 
+npm run dev
+
+npm start
 
 localhost:1337
 
