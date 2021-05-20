@@ -4,7 +4,7 @@ A quick description of your strapi application
 
 npm install
 
-npm run dev
+npm run build
 
 npm start
 
