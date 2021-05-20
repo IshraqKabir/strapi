@@ -10,5 +10,3 @@ npm start
 
 localhost:1337
 
-email: admin@admin.com 
-password: Admin1234 
